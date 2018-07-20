@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "UW Madison"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Data Carpentry @ UW Madison"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
