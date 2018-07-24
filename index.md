@@ -351,12 +351,15 @@ eventbrite: "47924816416"
   <h3>SQLite</h3>
 
   <p>
-    SQL is a specialized programming language used with databases.  We
-    use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
+SQL is a specialized programming language used with databases.  We
+use a simple database manager called [SQLite](http://www.sqlite.org/)
+in our lessons.
+
+We will use the [DB Browser for SQLite](http://sqlitebrowser.org/) program,
+which is available for all major platforms.
   </p>
 
-  <div class="row">
+  <!--<div class="row">
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
@@ -386,11 +389,11 @@ eventbrite: "47924816416"
         SQLite comes pre-installed on Linux.
       </p>
     </div>
-  </div>
+  </div>-->
 
-  <p><strong>If you installed Anaconda, it also has a copy of SQLite
+  <!--<p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
-    Instructors will provide a workaround for it if needed.</strong></p>
+    Instructors will provide a workaround for it if needed.</strong></p>-->
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
