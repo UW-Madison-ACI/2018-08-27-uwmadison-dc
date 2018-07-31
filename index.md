@@ -355,11 +355,12 @@ Registration is required and will be available just below, starting at 5:00pm on
 
   <p>
 SQL is a specialized programming language used with databases.  We
-use a simple database manager called [SQLite](http://www.sqlite.org/)
+use a simple database manager called SQLite
 in our lessons.
 
-We will use the [DB Browser for SQLite](http://sqlitebrowser.org/) program,
-which is available for all major platforms.
+We will use the <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a> program,
+which is available for all major platforms.  This is the program you should install before 
+the workshop.  
   </p>
 
   <!--<div class="row">
