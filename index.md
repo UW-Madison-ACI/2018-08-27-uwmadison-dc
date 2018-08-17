@@ -13,7 +13,7 @@ enddate: 2018-08-28        # machine-readable end date for the workshop in YYYY-
 instructor: ["Trisha Adamus","Karl Broman","Maria Kamenetsky","Christina Koch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Cameron Cook","Erin Jonatis"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["contactaci@lists.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  https://pad.carpentries.org/2018-08-27-uwmadison-dc           # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "47924816416"
 ---
 
